@@ -213,59 +213,43 @@
         </div>
     </section>
 
-潘明凯 2024303120104
-    <!-- 在校学生 -->
-    <section id="students" class="section">
-        <h2 class="section-title">在校学生</h2>
-        <div class="student-grid">
-            <!-- 学生条目 -->
-            <div class="student-card">
-                <h3>秦璐</h3>
-                <p>2022级博士研究生</p >
-                <p style="color: var(--secondary);">研究方向：亚热带地区微尺度土壤水文过程</p >
+李安 2024303120093
+   <!-- 文体活动 -->
+    <section id="activities" class="section">
+        <h2 class="section-title">文体活动</h2>
+        <div class="gallery-grid">
+            <div class="activity-card">
+                <div class="activity-img-container">
+                    < img src="activity1.jpeg" alt="秋游活动" class="activity-img">
+                </div>
+                <div class="activity-info">
+                    <h3 class="activity-title">年度秋游活动</h3>
+                    <p class="activity-desc">每年一度，土壤物理课题组会在每年十月份左右，选择一个秋高气爽的日子，大家集体选择一个武汉市附近的秋游地点，
+                                             可以是公园，可以是游乐园，可以是博物馆等等，老师会报销大家的开支，大家可以在科研疲劳时期享受公费放松</p >
+                </div>
             </div>
-            <div class="student-card">
-                <h3>张昊</h3>
-                <p>2023级博士研究生</p >
-                <p style="color: var(--secondary);">研究方向：崩岗发育与细沟发育</p >
+            <div class="activity-card">                                          
+                <div class="activity-img-container">
+                    < img src="activity2.jpg" alt="学术沙龙" class="activity-img">
+                </div>
+                <div class="activity-info">
+                    <h3 class="activity-title">参加学术会议</h3>
+                    <p class="activity-desc">大家平常在学习，阅读文献及做实验外，自己可以通过学校的学习渠道，去选择最近时间自己感兴趣的研究课题，报名
+                                              参加学术会议，与各位师兄师姐进行交流，学习经验与方法。
+                    </p >
+                </div>
             </div>
-            <!-- 学生条目 -->
-            <div class="student-card">
-                <h3>王金强</h3>
-                <p>2022级博士研究生</p >
-                <p style="color: var(--secondary);">研究方向：旱地红壤氮素的垂直分布与微生物群落结构的关系</p >
+            <div class="activity-card">
+                <div class="activity-img-container">
+                    < img src="activity3.jpg" alt="实验室开放日" class="activity-img">
+                </div>
+                <div class="activity-info">
+                    <h3 class="activity-title">羽毛球，乒乓球</h3>
+                    <p class="activity-desc">研究生的生活不仅仅是文献与试验，在感到疲惫时，你可以约上课题组的师兄弟妹们去打羽毛球或者乒乓球，课题组四
+                                              位老师会为我们提供充足的经费去购买羽毛球及报销羽毛球场地的费用</p >
+                </div>
             </div>
-            <div class="student-card">
-                <h3>Usama Khan</h3>
-                <p>2023级博士研究生</p >
-                <p style="color: var(--secondary);">研究方向：土壤孔隙网络建模</p >
-            </div>
-            <!-- 学生条目 -->
-            <div class="student-card">
-                <h3>黄怡婷</h3>
-                <p>2024级博士研究生</p >
-                <p style="color: var(--secondary);">研究方向：东北黑土区长坡土壤水文热力学</p >
-            </div>
-            <div class="student-card">
-                <h3>陈丽敏</h3>
-                <p>2022级硕士研究生</p >
-                <p style="color: var(--secondary);">研究方向：黏红壤作物根系土力性质</p >
-            </div>
-            <!-- 学生条目 -->
-            <div class="student-card">
-                <h3>陈俊熹</h3>
-                <p>2022级硕士研究生</p >
-                <p style="color: var(--secondary);">研究方向：典型黑土区损毁耕地的速度与影响因子</p >
-            </div>
-            <div class="student-card">
-                <h3>吴银菇</h3>
-                <p>2022级硕士研究生</p >
-                <p style="color: var(--secondary);">研究方向：土壤水热过程</p >
-            </div>
-            <!-- 学生条目 -->
-            <div class="student-card">
-                <h3>程晓慧</h3>
-                <p>2023级硕士研究生</p >
-                <p style="color: var(--secondary);">研究方向：不同退化黑土垄作后土壤结构和水力分异特征</p >
-            </div>
+        </div>
+    </section>
+
     
